@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-
+    compileOnly("it.unimi.dsi:fastutil:8.5.15")
 }
 
 kotlin {
